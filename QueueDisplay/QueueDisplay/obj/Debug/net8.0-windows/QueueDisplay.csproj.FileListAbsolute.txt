@@ -1,0 +1,38 @@
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\bin\Debug\net8.0-windows\QueueDisplay.exe
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\bin\Debug\net8.0-windows\QueueDisplay.deps.json
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\bin\Debug\net8.0-windows\QueueDisplay.runtimeconfig.json
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\bin\Debug\net8.0-windows\QueueDisplay.dll
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\bin\Debug\net8.0-windows\QueueDisplay.pdb
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\MainWindow.baml
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\MainWindow.g.cs
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\App.g.cs
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay_MarkupCompile.cache
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay.g.resources
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay.GeneratedMSBuildEditorConfig.editorconfig
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay.AssemblyInfoInputs.cache
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay.AssemblyInfo.cs
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay.csproj.CoreCompileInputs.cache
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay.dll
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\refint\QueueDisplay.dll
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay.pdb
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay.genruntimeconfig.cache
+A:\CSharp\Projects\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\ref\QueueDisplay.dll
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\bin\Debug\net8.0-windows\QueueDisplay.exe
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\bin\Debug\net8.0-windows\QueueDisplay.deps.json
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\bin\Debug\net8.0-windows\QueueDisplay.runtimeconfig.json
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\bin\Debug\net8.0-windows\QueueDisplay.dll
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\bin\Debug\net8.0-windows\QueueDisplay.pdb
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\MainWindow.baml
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\MainWindow.g.cs
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\App.g.cs
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay_MarkupCompile.cache
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay.g.resources
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay.GeneratedMSBuildEditorConfig.editorconfig
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay.AssemblyInfoInputs.cache
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay.AssemblyInfo.cs
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay.csproj.CoreCompileInputs.cache
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay.dll
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\refint\QueueDisplay.dll
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay.pdb
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\QueueDisplay.genruntimeconfig.cache
+A:\CSharp\Projects\TCP Queue\QueueDisplay\QueueDisplay\obj\Debug\net8.0-windows\ref\QueueDisplay.dll

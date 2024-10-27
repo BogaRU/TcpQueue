@@ -1,0 +1,38 @@
+A:\CSharp\Projects\ControlInterface\ControlInterface\bin\Debug\net8.0-windows\ControlInterface.exe
+A:\CSharp\Projects\ControlInterface\ControlInterface\bin\Debug\net8.0-windows\ControlInterface.deps.json
+A:\CSharp\Projects\ControlInterface\ControlInterface\bin\Debug\net8.0-windows\ControlInterface.runtimeconfig.json
+A:\CSharp\Projects\ControlInterface\ControlInterface\bin\Debug\net8.0-windows\ControlInterface.dll
+A:\CSharp\Projects\ControlInterface\ControlInterface\bin\Debug\net8.0-windows\ControlInterface.pdb
+A:\CSharp\Projects\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\MainWindow.baml
+A:\CSharp\Projects\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\MainWindow.g.cs
+A:\CSharp\Projects\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\App.g.cs
+A:\CSharp\Projects\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface_MarkupCompile.cache
+A:\CSharp\Projects\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface.g.resources
+A:\CSharp\Projects\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface.GeneratedMSBuildEditorConfig.editorconfig
+A:\CSharp\Projects\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface.AssemblyInfoInputs.cache
+A:\CSharp\Projects\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface.AssemblyInfo.cs
+A:\CSharp\Projects\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface.csproj.CoreCompileInputs.cache
+A:\CSharp\Projects\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface.dll
+A:\CSharp\Projects\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\refint\ControlInterface.dll
+A:\CSharp\Projects\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface.pdb
+A:\CSharp\Projects\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface.genruntimeconfig.cache
+A:\CSharp\Projects\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ref\ControlInterface.dll
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\bin\Debug\net8.0-windows\ControlInterface.exe
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\bin\Debug\net8.0-windows\ControlInterface.deps.json
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\bin\Debug\net8.0-windows\ControlInterface.runtimeconfig.json
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\bin\Debug\net8.0-windows\ControlInterface.dll
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\bin\Debug\net8.0-windows\ControlInterface.pdb
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\MainWindow.baml
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\MainWindow.g.cs
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\App.g.cs
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface_MarkupCompile.cache
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface.g.resources
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface.GeneratedMSBuildEditorConfig.editorconfig
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface.AssemblyInfoInputs.cache
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface.AssemblyInfo.cs
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface.csproj.CoreCompileInputs.cache
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface.dll
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\refint\ControlInterface.dll
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface.pdb
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ControlInterface.genruntimeconfig.cache
+A:\CSharp\Projects\TCP Queue\ControlInterface\ControlInterface\obj\Debug\net8.0-windows\ref\ControlInterface.dll
